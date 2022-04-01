@@ -1,8 +1,7 @@
-# Meteor Addon Template
+# Leaks
+This repository is for Tantal, it is a Meteor Addon
 
-A template to allow easy usage of the Meteor Addon API.
+# Attention!
+This is Powerd by "eteorDevelopment/meteor-addon-template"
 
-### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+Its just a fun projeckt, if you like it skidd so mutch you want :3
