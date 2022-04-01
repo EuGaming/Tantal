@@ -1,4 +1,4 @@
-# Leaks
+# TANTAL ADDON!
 This repository is for Tantal, it is a Meteor Addon
 
 # Attention!
